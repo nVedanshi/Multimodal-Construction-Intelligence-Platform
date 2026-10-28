@@ -1,0 +1,17 @@
+# Root-level ignores
+.env
+.venv/
+venv/
+node_modules/
+dist/
+build/
+*.db
+*.sqlite
+*.sqlite3
+uploads/
+reports/
+.DS_Store
+.idea/
+.vscode/
+*.log
+.env.local
